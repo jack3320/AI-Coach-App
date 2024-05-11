@@ -12,7 +12,7 @@ It employs the Mediapipe library for pose detection, identifying key body landma
 
 3. open the project floder in the VScode
 
-4. install required Libraries where in `41_Requirements.txt`
+4. install required Libraries where in `Requirements.txt`
 
 5. run the file with name `live_demo.py`
 
